@@ -9,7 +9,6 @@ agents:
             - sequentialthinking
             - task_done
 allow_mcp_servers:
-    - playwright
 mcp_servers:
     playwright:
         command: npx
